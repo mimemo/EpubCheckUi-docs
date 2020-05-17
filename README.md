@@ -27,6 +27,19 @@ GUI for EPUBCHECK
 
 # 履歴
 
+## ver 5.2.0 (2020/05/18)
+EPUB圧縮と解凍のUIを改善
+
+## ver 5.1.0 (2020/03/25)
+.Net Core(3.1)移行
+
+## ver 5.0.1 (2020/03/17)
+起動時に強制終了する不具合修正
+
+## ver 5.0 (2020/03/17)
+UI変更（通常チェックと、比較チェックを分離）
+内部ライブラリを更新
+
 ### ver 4.2 (2019/07/23)
 EPUBCheck v4.2.2 に対応
 
@@ -112,7 +125,21 @@ GUI for EPUBCHECK
 - Just drop EPUB file.
 
 
-# history
+# History
+
+## ver 5.2.0 (2020/05/18)
+Improved UI for EPUB packaging and extend.
+
+## ver 5.1.0 (2020/03/25)
+Ported from .NET Framework to .NET Core
+
+## ver 5.0.1 (2020/03/17)
+Fixed a bug.
+
+## ver 5.0 (2020/03/17)
+Improve UI (separate normal check and compare check)
+Update internal library.
+
 
 ### ver 4.2 (2019/07/23)
 EPUBCheck v4.2.2 available.
