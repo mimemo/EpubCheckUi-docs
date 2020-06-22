@@ -27,6 +27,10 @@ GUI for EPUBCHECK
 
 # 履歴
 
+## ver 5.3.0 (2020/06/23)
+EPUBCheck v4.2.3 に対応
+UI改善 (メインのチェック画面 )
+
 ## ver 5.2.0 (2020/05/18)
 EPUB圧縮と解凍のUIを改善
 
@@ -126,6 +130,10 @@ GUI for EPUBCHECK
 
 
 # History
+
+## ver 5.3.0 (2020/06/23)
+EPUBCheck v4.2.3 available.
+Improved UI (Validate View)
 
 ## ver 5.2.0 (2020/05/18)
 Improved UI for EPUB packaging and extend.
