@@ -27,14 +27,19 @@ GUI for EPUBCHECK
 
 # 履歴
 
-## ver 5.3.0 (2020/06/23)
+## ver 5.4 (2020/06/25)
+EPUBCheck v4.2.4 に対応
+EPUBCheck v4.2.3 に非対応
+結果保存の形式に Excelを追加
+
+## ver 5.3 (2020/06/23)
 EPUBCheck v4.2.3 に対応
 UI改善 (メインのチェック画面 )
 
-## ver 5.2.0 (2020/05/18)
+## ver 5.2 (2020/05/18)
 EPUB圧縮と解凍のUIを改善
 
-## ver 5.1.0 (2020/03/25)
+## ver 5.1 (2020/03/25)
 .Net Core(3.1)移行
 
 ## ver 5.0.1 (2020/03/17)
@@ -131,14 +136,20 @@ GUI for EPUBCHECK
 
 # History
 
-## ver 5.3.0 (2020/06/23)
+## ver 5.4 (2020/06/25)
+EPUBCheck v4.2.4 available
+EPUBCheck v4.2.3 unsupported
+Added Excel format for exporting results
+
+
+## ver 5.3 (2020/06/23)
 EPUBCheck v4.2.3 available.
 Improved UI (Validate View)
 
-## ver 5.2.0 (2020/05/18)
+## ver 5.2 (2020/05/18)
 Improved UI for EPUB packaging and extend.
 
-## ver 5.1.0 (2020/03/25)
+## ver 5.1 (2020/03/25)
 Ported from .NET Framework to .NET Core
 
 ## ver 5.0.1 (2020/03/17)
