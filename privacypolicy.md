@@ -4,7 +4,7 @@ a graphical user interface (GUI) app for EpubCheck.
 
 # Support
 
-- Twitter:@Kwaishi2
+- Twitter:@Kawaishi2
 
 # プライバシーポリシー (privacy policy)
 
