@@ -1,5 +1,3 @@
-# Cut Same Size
-
 # EpubcheckUi
 
 GUI for EPUBCHECK
