@@ -27,6 +27,12 @@ GUI for EPUBCHECK
 
 # 履歴
 
+## ver 6.0.1 (2023/01/19)
+ユーザーが、別途ランタイムのダウンロードとインストールをする必要がなくなりました
+
+## ver 6.0 (2023/01/13)
+EPUBCheck v5.0.0 に対応
+
 ## ver 5.7 (2022/04/06)
 - EPUBCheck v5.0.0 β１ に対応
 - .Net6 移行
@@ -146,6 +152,12 @@ GUI for EPUBCHECK
 
 
 # History
+
+## ver 6.0.1 (2023/01/19)
+User no longer need to download and install .NET runtime.
+
+## ver 6.0 (2023/01/13)
+EPUBCheck v5.0.0 available.
 
 ## ver 5.7 (2022/04/06)
 - EPUBCheck v5.0.0 β１ available
