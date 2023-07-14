@@ -27,6 +27,12 @@ GUI for EPUBCHECK
 
 # 履歴
 
+## ver 6.3 (2023/07/14)
+- EPUBCheck v5.1.0 に対応
+
+## ver 6.2 (2023/05/12)
+- EPUBCheck v5.0.1 に対応
+
 ## ver 6.1 (2023/02/02)
 - アプリ容量の削減
 - ロゴ変更
@@ -156,6 +162,12 @@ GUI for EPUBCHECK
 
 
 # History
+
+## ver 6.3 (2023/07/14)
+- EPUBCheck v5.1.0 available.
+
+## ver 6.2 (2023/05/12)
+- EPUBCheck v5.0.1 available.
 
 ## ver 6.1 (2023/02/02)
 - Reduction of app capacity.
