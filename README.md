@@ -27,6 +27,10 @@ GUI for EPUBCHECK
 
 # 履歴
 
+
+## ver 6.4 (2023/08/09)
+- パッケージ機能の不具合を解消.
+
 ## ver 6.3 (2023/07/14)
 - EPUBCheck v5.1.0 に対応
 
@@ -162,6 +166,9 @@ GUI for EPUBCHECK
 
 
 # History
+
+## ver 6.4 (2023/08/09)
+- Fixed a bug in the package feature.
 
 ## ver 6.3 (2023/07/14)
 - EPUBCheck v5.1.0 available.
