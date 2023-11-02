@@ -1,24 +1,26 @@
-# EpubcheckUi
+
+ # EpubcheckUi
 
 GUI for EPUBCHECK
 
-## Windows Store
+## Windows Store Link
 
-<a href="https://www.microsoft.com/store/apps/9njhbs0d83kp?ocid=badge">
-    <img width="200"  src="https://assets.windowsphone.com/83f5ae31-474a-44c4-937c-80f8e7e48fc8/Japanese_Get_it_Win_10_InvariantCulture_Default.png" alt="Windows 10 でダウンロード" />
-</a>
+[![Windows Store Link to EpubcheckUi](https://get.microsoft.com/images/ja-jp%20light.svg)](https://apps.microsoft.com/detail/EpubcheckUI/9NJHBS0D83KP?launch=true&mode=full)
+ 
+---
 
 # PrivacyPolicy (プライバシーポリシー)
 
 - [PrivacyPolicy Page](./privacypolicy.md)
 
-
+---
 
 # docs
 
 - [日本語](#アプリ)
 - [English](#app)
 
+---
 
 # アプリ
 
@@ -27,7 +29,14 @@ GUI for EPUBCHECK
 
 # 履歴
 
+## ver 6.5.1 (2023/11/02)
+- 軽微な改善.
+- バグ修正.
+- EPUBCheck v5.0.1 を非対応.
 
+## ~~ver 6.5.0 (2023/10/31)~~
+- 不具合により非公開
+ 
 ## ver 6.4 (2023/08/09)
 - パッケージ機能の不具合を解消.
 
@@ -167,6 +176,14 @@ GUI for EPUBCHECK
 
 # History
 
+## ver 6.5.1 (2023/11/02)
+- Minor improvements.
+- Bug fixes (for v6.5.0).
+- EPUBCheck v5.0.1 is not supported.
+
+## ver 6.5.0 (2023/10/31)
+- Unlisted due to a bug.
+
 ## ver 6.4 (2023/08/09)
 - Fixed a bug in the package feature.
 
@@ -189,11 +206,12 @@ GUI for EPUBCHECK
 ## ver 5.7 (2022/04/06)
 - EPUBCheck v5.0.0 β１ available
 
-## 2021/07/13 ver 5.6
+## ver 5.6 (2021/07/13)
 - EPUBCheck v4.2.6 available
 - EPUBCheck v4.2.5 unsupported
 
-## 2021/03/03 ver 5.5
+
+## ver 5.5 (2021/03/03)
 - EPUBCheck v4.2.5 available
 
 ## ver 5.4 (2020/06/25)
